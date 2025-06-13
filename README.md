@@ -1,6 +1,6 @@
 # 💫 About Me:
-I'm current a Student at Red River College Polytechnic as an Application Development And Delivery
-
+- I'm current a Student at Red River College Polytechnic as an Application Development And Delivery
+- Currently learning Python
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ivan-estropigan-9087171a0/) 
