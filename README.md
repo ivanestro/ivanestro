@@ -1,7 +1,8 @@
 # 💫 About Me:
-- I'm current a Student at Red River College Polytechnic as an Application Development And Delivery
-- Currently learning Python
-
+- I have quit college to pursue hobbies
+- Currently learning Lua
+- Building Roblox Games
+  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-estropigan-9087171a0/) 
 
